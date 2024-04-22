@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davyd Zakorchennyi</h1>
 <h3 align="center">A passionate full-stack engineer located in Sarasota, Florida</h3>
 
-- 🔭 I’m currently working on [Chattebox client](https://github.com/Diza41a/Chatterbox)
+- 🔭 I’m currently looking for a new work to be passionate about
 
 - 🌱 I’m currently learning **SOLID Principles**
 
