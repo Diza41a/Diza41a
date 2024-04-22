@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [Chattebox client](https://github.com/Diza41a/Chatterbox)
 
-- 🌱 I’m currently learning **Redux and NeSt.js**
+- 🌱 I’m currently learning **SOLID Principles**
 
-- 👨‍💻 All of my projects are available at [http://dzakorchennyi.com/](http://dzakorchennyi.com/)
+- 👨‍💻 My relevant projects are available at [dzakorchennyi.vercel.app](https://dzakorchennyi.vercel.app/)
 
-- 💬 Ask me about **React, Sass, Typescript**
+- 💬 Ask me about **React, FastAPI, Typescript**
 
 - 📫 How to reach me **DZakorchennyi@gmail.com, https://www.linkedin.com/in/davydzakorchennyi/**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1NFhMHnfX_c9am679hzIxkjYx6OC9CmWx9cv1EUs9T1o/edit?usp=sharing](https://docs.google.com/document/d/1NFhMHnfX_c9am679hzIxkjYx6OC9CmWx9cv1EUs9T1o/edit?usp=sharing)
 
-- ⚡ Fun fact **I have three dogs and three nieces**
+- ⚡ Fun fact **I have three dogs and love to travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
